@@ -1,4 +1,4 @@
-This is code for fake videos detection.
+This is code for fake image detection.
 
 This code requires CUDA requirements to run the code.
 
